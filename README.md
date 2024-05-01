@@ -1,4 +1,4 @@
-# Cupcake app - Materi 6 (App Navigation)
+# Cupcake App - Materi 6 (App Navigation)
 
 ## Mata Kuliah : Praktik Pemrograman Mobile 1
 ==============================
